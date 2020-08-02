@@ -17,10 +17,10 @@ body {
 }
 
 .Landing {
-    height: 100vh;
+    height: 93vh;
     background-image: url(images/table-food.png);
     background-size: cover;
-    overflow: auto;
+    overflow: hidden;
 }
 
 .Landing .Sign {
